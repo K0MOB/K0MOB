@@ -14,6 +14,7 @@ Tuesday, August 25, 2026 6:30 PM
 Please note that for the month of August only, the club meeting will be held on the 4th Tuesday of the month to conduct the annual election of club officers in accordance with the Club Bylaws.
 
 Meeting Location:
-<addr>1301 E. Logan St.
-Moberly, MO 65270</addr>
+<address>1301 E. Logan St.<br>
+Moberly, MO 65270</address><br>
+
 All members are encouraged to attend.
