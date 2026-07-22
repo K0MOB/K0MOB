@@ -40,7 +40,7 @@ languages:
           url: posts/ 
           weight: 2
         - name: Archive
-          url: archives/
+          url: /archives/
           weight: 5
 
 outputFormats:
