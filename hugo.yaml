@@ -97,7 +97,7 @@ params:
     - name: "Facebook"
       url: "https://www.facebook.com/61591280975035/"
   editPost:
-    URL: "https://github.com/K0MOBARC/K0MOB/edit/suggested/content" # edit URL
+    URL: "https://github.com/K0MOB/K0MOB/edit/suggested/content" # edit URL
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
