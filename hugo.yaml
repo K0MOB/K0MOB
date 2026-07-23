@@ -88,13 +88,14 @@ params:
         url: about/
       - name: Posts
         url: posts/
-    
     assets:
       disableHLJS: true
       favicon: "favicon.png"  
       favicon16x16: "favicon16.png"
       favicon32x32: "favicon32.png"
-
+  socialIcons: # optional
+    - name: "Facebook"
+      url: "https://www.facebook.com/61591280975035/"
   editPost:
     URL: "https://github.com/K0MOBARC/K0MOB/edit/main/content" # edit URL
     Text: "Suggest Changes" # edit text
