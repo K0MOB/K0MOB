@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://k0mobarc.github.io/"
+baseURL: "https://k0mob.github.io/K0MOB/"
 title: K0MOB
 copyright: "© 2026 K0MOB. All rights reserved."
 theme: [PaperMod]
@@ -96,6 +96,8 @@ params:
   socialIcons: # optional
     - name: "Facebook"
       url: "https://www.facebook.com/61591280975035/"
+    - name: "Pota"
+      url: "https://pota.app/#/profile/K0MOB"
   editPost:
     URL: "https://github.com/K0MOB/K0MOB/edit/suggested/content" # edit URL
     Text: "Suggest Changes" # edit text
